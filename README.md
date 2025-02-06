@@ -20,6 +20,6 @@ C Sharp Brawl Stars server emulator for version 59
 3: Enjoy playing BSL.v59!
 
 ## Screenshots ##
-![BSL.v59](https://raw.githubusercontent.com/LkPrtctrd/BSL-V59/main/Screenshots/menu.png)
+![BSL.v59](https://raw.githubusercontent.com/LkPrtctrd/BSL.v59/main/Screenshots/menu.png)
 
 07.02
