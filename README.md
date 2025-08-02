@@ -13,7 +13,7 @@ C Sharp Brawl Stars server emulator for version 59
 4: Follow client instructions
 
 ### Android Client ###
-1: Download the APK here: soon (this time for sure xd)
+1: [Download the APK here](https://mega.nz/file/KE0lXbaI#CHHoO3U9mnoZ4f-2PyW9y0Lw9Rljy_JkHPltOHf56so)
 
 2: Change redirectHost (and redirectPort if you need it) in the frida config (lib/arm64-v8a/libBSL.config.so)
 
@@ -21,5 +21,3 @@ C Sharp Brawl Stars server emulator for version 59
 
 ## Screenshots ##
 ![BSL.v59](https://raw.githubusercontent.com/LkPrtctrd/BSL.v59/main/Screenshots/menu.png)
-
-07.02
